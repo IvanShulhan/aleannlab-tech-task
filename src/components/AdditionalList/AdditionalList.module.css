@@ -1,0 +1,19 @@
+.additional_list_block {
+  @apply flex flex-col;
+}
+
+.additional_title {
+  @apply font-roboto text-lg leading-snug -tracking-[0.56px] mb-2.5
+}
+
+.additional_list {
+  @apply flex gap-2 mb-2.5;
+}
+
+.additional_item {
+  @apply min-w-[30%] md:min-w-[222px] py-4 px-2.5 leading-none font-bold -tracking-[0.45px] text-[#55699e] bg-[#a1b1db51] border border-[#55699e4d] rounded-lg text-center;
+}
+
+.additional_item__yellow {
+  @apply text-[#988b49] bg-[#ffcf0026] border-[#ffcf00]
+}

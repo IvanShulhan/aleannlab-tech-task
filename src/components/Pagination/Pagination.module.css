@@ -1,0 +1,44 @@
+.pagination {
+  @apply flex items-center justify-between md:px-6 bg-white shadow-card rounded-lg md:rounded-[10.4px] w-full lt:w-max;
+}
+
+.button {
+  @apply w-[51px] h-6 md:h-[31.2px] border-[#38415d0d] md:border-[#dee3ef];
+}
+
+.button svg{
+  @apply hidden md:block w-3.5 h-[18px] object-contain transition-colors duration-300 fill-[#7D859C] hover:fill-main-grey;
+}
+
+.button__left {
+  @apply md:pr-8 lt:mr-10 border-r-[1px] md:border-r-[1.3px];
+}
+
+.button__right {
+  @apply md:pl-8 lt:ml-10 border-l-[1px] md:border-l-[1.3px];
+}
+
+.button__disabled {
+  @apply cursor-default hover:fill-[#7D859C];
+}
+
+.button__disabled svg{
+  @apply hover:fill-[#7D859C];
+}
+
+.list {
+  @apply list-none flex items-center gap-2 self-center;
+}
+
+.pagination_item {
+  @apply md:text-[21px] font-bold min-w-[20px] lt:min-w-[24px] md:min-w-[31px] leading-tight pt-3 pb-1.5 text-middle-gray hover:text-light-blue border-b-2 md:border-b-[2.6px] border-b-transparent transition-colors duration-300;
+}
+
+.pagination_item__active {
+  @apply text-light-blue border-b-light-blue; 
+}
+
+.pagination_item__is_nan {
+  @apply cursor-default hover:text-middle-gray;
+}
+

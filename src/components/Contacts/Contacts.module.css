@@ -1,0 +1,27 @@
+.contacts_card {
+  @apply flex flex-col w-full xl:w-[400px] h-auto;
+}
+
+.header {
+  @apply flex flex-col relative bg-[#202336] md:bg-[#2A3047] rounded-t-lg pt-8 pb-5 px-[63px] xl:max-w-[400px] overflow-hidden z-[1];
+}
+
+.circle {
+  @apply hidden md:block w-[273px] h-[273px] bg-[#202336] absolute -top-3 -left-20 rounded-full z-[-1];
+}
+
+.title {
+  @apply text-[20px] leading-tight -tracking-[0.62px] mb-2 text-[#e7eaf0] font-bold;
+}
+
+.point {
+  @apply inline-block w-[13px] h-[18px] bg-contain bg-center bg-no-repeat bg-[url('../../assecc/images/marker.svg')] mr-2;
+}
+
+.content_text {
+  @apply font-roboto text-lg text-[#e8ebf3] leading-snug -tracking-[0.56px] hover:underline;
+} 
+
+.contacts {
+  @apply flex flex-col mt-2;
+}
