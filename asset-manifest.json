@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aleannlab-tech-task/static/css/main.002a34ae.css",
+    "main.js": "/aleannlab-tech-task/static/js/main.76a771db.js",
+    "static/js/483.f74cb7fc.chunk.js": "/aleannlab-tech-task/static/js/483.f74cb7fc.chunk.js",
+    "static/media/ProximaNova-Light.woff": "/aleannlab-tech-task/static/media/ProximaNova-Light.7990e5187e35346a1a41.woff",
+    "static/media/ProximaNova-Regular.woff": "/aleannlab-tech-task/static/media/ProximaNova-Regular.3d59ce3e9d6f49acb285.woff",
+    "static/media/ProximaNova-Bold.woff": "/aleannlab-tech-task/static/media/ProximaNova-Bold.7bbe1c8847f08b1633a0.woff",
+    "static/media/ProximaNova-Semibold.woff": "/aleannlab-tech-task/static/media/ProximaNova-Semibold.9d060ce65c8a91d38e21.woff",
+    "static/media/star-active.svg": "/aleannlab-tech-task/static/media/star-active.c6ea2a1926453ef491b5.svg",
+    "static/media/star.svg": "/aleannlab-tech-task/static/media/star.e6f3eaf529f8486fe8c4.svg",
+    "static/media/share.svg": "/aleannlab-tech-task/static/media/share.7381a5999554764f3ce8.svg",
+    "index.html": "/aleannlab-tech-task/index.html",
+    "static/media/arrow.svg": "/aleannlab-tech-task/static/media/arrow.81b0f26cb6486aa14408.svg",
+    "static/media/marker.svg": "/aleannlab-tech-task/static/media/marker.dfc4fc081348a552656c.svg",
+    "static/media/bookmark-active.svg": "/aleannlab-tech-task/static/media/bookmark-active.8074883b8e43144f3c13.svg",
+    "static/media/bookmark.svg": "/aleannlab-tech-task/static/media/bookmark.396bd54acab80c5063c6.svg",
+    "static/media/location.svg": "/aleannlab-tech-task/static/media/location.1c093ca173a538132f1c.svg",
+    "main.002a34ae.css.map": "/aleannlab-tech-task/static/css/main.002a34ae.css.map",
+    "main.76a771db.js.map": "/aleannlab-tech-task/static/js/main.76a771db.js.map",
+    "483.f74cb7fc.chunk.js.map": "/aleannlab-tech-task/static/js/483.f74cb7fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002a34ae.css",
+    "static/js/main.76a771db.js"
+  ]
+}
