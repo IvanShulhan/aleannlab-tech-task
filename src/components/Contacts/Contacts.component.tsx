@@ -1,6 +1,6 @@
 import React from 'react';
 import { JobInterface } from '../../types/Job';
-import { Map } from '../Map.component';
+import { Map } from '../Map/Map.component';
 import styles from './Contacts.module.css';
 
 type Props = {
