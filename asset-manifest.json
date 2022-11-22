@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/aleannlab-tech-task/static/css/main.002a34ae.css",
-    "main.js": "/aleannlab-tech-task/static/js/main.76a771db.js",
-    "static/js/483.f74cb7fc.chunk.js": "/aleannlab-tech-task/static/js/483.f74cb7fc.chunk.js",
+    "main.css": "/aleannlab-tech-task/static/css/main.91379260.css",
+    "main.js": "/aleannlab-tech-task/static/js/main.f535b191.js",
     "static/media/ProximaNova-Light.woff": "/aleannlab-tech-task/static/media/ProximaNova-Light.7990e5187e35346a1a41.woff",
     "static/media/ProximaNova-Regular.woff": "/aleannlab-tech-task/static/media/ProximaNova-Regular.3d59ce3e9d6f49acb285.woff",
     "static/media/ProximaNova-Bold.woff": "/aleannlab-tech-task/static/media/ProximaNova-Bold.7bbe1c8847f08b1633a0.woff",
@@ -16,12 +15,11 @@
     "static/media/bookmark-active.svg": "/aleannlab-tech-task/static/media/bookmark-active.8074883b8e43144f3c13.svg",
     "static/media/bookmark.svg": "/aleannlab-tech-task/static/media/bookmark.396bd54acab80c5063c6.svg",
     "static/media/location.svg": "/aleannlab-tech-task/static/media/location.1c093ca173a538132f1c.svg",
-    "main.002a34ae.css.map": "/aleannlab-tech-task/static/css/main.002a34ae.css.map",
-    "main.76a771db.js.map": "/aleannlab-tech-task/static/js/main.76a771db.js.map",
-    "483.f74cb7fc.chunk.js.map": "/aleannlab-tech-task/static/js/483.f74cb7fc.chunk.js.map"
+    "main.91379260.css.map": "/aleannlab-tech-task/static/css/main.91379260.css.map",
+    "main.f535b191.js.map": "/aleannlab-tech-task/static/js/main.f535b191.js.map"
   },
   "entrypoints": [
-    "static/css/main.002a34ae.css",
-    "static/js/main.76a771db.js"
+    "static/css/main.91379260.css",
+    "static/js/main.f535b191.js"
   ]
 }
